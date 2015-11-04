@@ -1,0 +1,4 @@
+TITLE: Authentication and Todo list
+DATE: 2015-11-03 13:18
+-------------------------
+Well I have things working pretty well here, I think I've figured out why my ssh key wasn't working for git pushes, so Thi spost should work with that. I need to write a small bash script to automate new post creation, as the process is completely manual right now. Just a small thing to create the text file for a post, give it a totle ad insert it into the Makefile would be great. 

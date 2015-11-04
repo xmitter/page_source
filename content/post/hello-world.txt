@@ -1,0 +1,6 @@
+TITLE: Hello, World
+DATE: 2015-11-03 11:34
+-------------------------
+Testing! This is a new blog post. I decided, for whatever reason, that I wanted to play with some static site generators. I started with Jekyll and Octopress, but those were pretty rickety and fiddly and annoying.
+
+So now I've switched over to the blogc utility, built in C and even more barebones. It was a lot simpler to get it up and running than the Ruby tools even though there were some odd Ruby requirements when compiling. I don't know if this will be a regular thing, but it's been interesting so far.

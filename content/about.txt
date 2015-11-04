@@ -1,0 +1,5 @@
+TITLE: About
+------------
+Hi, I'm Frank.
+
+This is an experiment in making a goofy blog with the blogc utility.
