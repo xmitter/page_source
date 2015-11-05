@@ -12,6 +12,7 @@ POSTS_PER_PAGE_ATOM = 10
 POSTS = \
 	authentication \
 	hello-world \
+	automation \
 	$(NULL)
 
 PAGES = \

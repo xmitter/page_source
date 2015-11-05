@@ -1,0 +1,7 @@
+TITLE: automation
+DATE: 2015-11-05 10:32
+-------------------------
+Yesterday and today I've been working on a small bash scrip to automate adding new posts, it's working pretty well so far I should be able to finish it off today. Just about 20ish lines of bash, nothing fancy.
+
+It's clunky and a little more DIY than what I've worked on lately, but I think that's a good thing, as I'm learning a lot.
+
